@@ -51,7 +51,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3 was installed on my current window pc, per corremmendation for preworks. I may need to install it again when I get my macbook.
 
 ### Q2. Which Python Version Installed   
 
@@ -59,7 +59,11 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3.6.5
+
+It looks like that I have two installations of Python on my current window pc. Above is the repsonse from window commond terminal.The following is the result from Jupyter Notebook:
+ 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)]
+
 
  
 
