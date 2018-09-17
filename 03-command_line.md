@@ -37,21 +37,21 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`
-`ls -a` 
-`ls -l` 
-`ls -lh`  
-`ls -lah`  
-`ls -t`  
-`ls -Glp`  
+`ls`  
+`ls -a`   
+`ls -l`   
+`ls -lh`    
+`ls -lah`    
+`ls -t`    
+`ls -Glp`    
 
-`ls`: list all unhidden files' name only
-`ls -a` : also list hidden file's name
-`ls -l`  : list files' info in long format, inlcuding file size, last editted time, etc.
-`ls -lh`  : list some info in human readable format
-`ls -lah`  : list info of all files in current dir, including hidden files, and use human readable formant
-`ls -t`  : sort the list of file names per last editting time
-`ls -Glp`  : list file info without group info, and add "/" after dir names
+`ls`: list all unhidden files' name only  
+`ls -a` : also list hidden file's name  
+`ls -l`  : list files' info in long format, inlcuding file size, last editted time, etc.  
+`ls -lh`  : list some info in human readable format  
+`ls -lah`  : list info of all files in current dir, including hidden files, and use human readable format  
+`ls -t`  : sort the list of file names per last editting time   
+`ls -Glp`  : list file info without group info, and add "/" after dir names  
 
 ---
 
