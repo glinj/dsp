@@ -20,22 +20,38 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+* show current working directory path: pwd
+* creating a directory: mkdir xyz
+* deleting a directory: rmdir xyz (the dir should be empty)
+* creating a file using `touch` command: touch abc.txt
+* deleting a file: rm abc.txt
+* renaming a file mv abc.txt def.txt
+* listing hidden files: ls -a
+* copying a file from one directory to another: cp abc.txt ../xyz/
+* to find out who is the same machine: who, or w
+* check out the system resouces usage: top
+* find out current data and time: date
 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  
-`ls -a`  
-`ls -l`  
+`ls`
+`ls -a` 
+`ls -l` 
 `ls -lh`  
 `ls -lah`  
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+`ls`: list all unhidden files' name only
+`ls -a` : also list hidden file's name
+`ls -l`  : list files' info in long format, inlcuding file size, last editted time, etc.
+`ls -lh`  : list some info in human readable format
+`ls -lah`  : list info of all files in current dir, including hidden files, and use human readable formant
+`ls -t`  : sort the list of file names per last editting time
+`ls -Glp`  : list file info without group info, and add "/" after dir names
 
 ---
 
