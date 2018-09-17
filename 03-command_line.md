@@ -71,7 +71,14 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+xargs converts input from standard input into arguments to a command, in a repeated fashion, i.e., the command will be executed as many as times need for all items in the input list.
+
+Example:
+
+echo 'one two three' | xargs mkdir
+
+will create three dirs the names of one, two, and three, respectively. Note that echo 'one two three' will creat three test items, seperated by space, and they are piped to xargs with command of mkdir, so mkdir will run three times and will create three dirs under uc current dir with names given by the three text items. 
+
 
  
 
