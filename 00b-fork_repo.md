@@ -68,5 +68,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> :laughing:   :smiley: :sweatsmiley:
+>> :laughing:   :smiley: :sweat_smile:
 
